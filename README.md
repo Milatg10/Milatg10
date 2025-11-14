@@ -6,7 +6,7 @@ My long-term goal is to work in the **video game industry** as a programmer, cre
 ---
 
 ### 💼 Experience
-- 🏢 **eCaptured Tech** — 2-month internship  
+- 🏢 **ecaptureDtech** — 2-month internship  
   Integrated APIs and explored modern AI technologies, working with **LLMs**, **chatbots**, and **prompt engineering**.
 
 ---
